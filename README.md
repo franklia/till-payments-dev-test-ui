@@ -2,15 +2,15 @@
 
 - I was able to complete routes for /customers and /customers/:id
 - I have not used React Testing Library before but did manage to get a couple of very basic tests written. Obviously it would have been great to add more if I had more time
-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the typescript flag
 
 ## How to run on local
 
 ### Prerequisites
 
-- NPM
+- Yarn
 - React.js
-- Node version 14.15.4 or higher
+- Node version 15.X or higher
 - Google Chrome or Firefox
 
 ### Installation
@@ -29,7 +29,7 @@ Create a .env.local file in the root directory using the template below
 
 Launch app:
 
-- Run npm start to start your local server, view the app on http://localhost:3000
+- Run `yarn start` to start your local server, view the app on http://localhost:3000
 
 ## Set up API:
 
